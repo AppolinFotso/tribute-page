@@ -45,3 +45,11 @@ padding-bottom: 3rem;
 #tribute-link:hover{
  color: green;
 }
+
+@media screen and (max-width: 300px) {
+  
+  #main #tribute-info {
+margin: auto;
+padding-bottom: 3rem;
+}
+}
